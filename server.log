@@ -1,0 +1,9 @@
+
+> revora-backend@1.0.0 start
+> node server.js
+
+
+  Revora running →  http://localhost:3000
+
+  ✓  AI configured (model: llama-3.3-70b-versatile)
+
