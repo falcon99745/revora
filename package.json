@@ -1,0 +1,16 @@
+{
+  "name": "revora-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Revora study app — AI proxy + persistent per-user storage.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^2.2.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
